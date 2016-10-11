@@ -1,6 +1,6 @@
 //JBA js course library
 //revealing module pattern (only expose globals to return object)
-
+//Hello
 
 	var courseFeatureJBA = (function(){
 		var count = 0;
